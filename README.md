@@ -70,5 +70,4 @@
    npm run dev
    ```
 
-## License
-[Add License Information Here]
+
