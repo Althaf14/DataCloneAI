@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+mysql-connector-python
+python-multipart
+python-dotenv
+pydantic
+passlib[bcrypt]
+bcrypt
+python-jose[cryptography]
+pymysql
+cryptography
+opencv-python-headless
+numpy
+pytesseract
+# face_recognition
+Pillow
